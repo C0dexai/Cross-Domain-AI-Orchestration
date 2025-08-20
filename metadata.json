@@ -1,0 +1,6 @@
+{
+  "name": "Cross-Domain AI Orchestration",
+  "description": "An interactive dashboard to manage and visualize autonomous collaboration between AI agents across distinct domains, supervised by Gemini.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
